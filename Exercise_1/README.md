@@ -111,10 +111,10 @@ The demo produces colorful console output showing:
 
 ## Requirements Met
 
-✅ Three design patterns implemented  
-✅ Console-based logging throughout  
-✅ Exception handling included  
-✅ Short, clear implementations  
-✅ Clean code structure  
-✅ Easy to run and test  
-✅ Well-documented code  
+ Three design patterns implemented  
+ Console-based logging throughout  
+ Exception handling included  
+ Short, clear implementations  
+ Clean code structure  
+ Easy to run and test  
+ Well-documented code  
